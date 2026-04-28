@@ -53,7 +53,7 @@ Location-aware garden planner with ZIP-based climate recommendations, drag-and-d
 **🛸 [SkySweep](https://github.com/stephkmn/pantherhacks-2026)** — 🥈 Runner-up Sustainability, PantherHacks 
 Drone-powered trash detection with YOLO waste classification, severity scoring, optimized cleanup routing, and community reporting pinned to Supabase. `Python` `FastAPI` `React` `YOLO`
 
-**🎙 [Vox IDE](https://github.com/jasminemarwaha1234/vox-ide)** — Built for a teammate with carpal tunnel
+**🎙 [Vox IDE](https://github.com/jasminemarwaha12/vox-ide)** — Built for a teammate with carpal tunnel
 Voice-controlled IDE with Gemini code generation and Vapi real-time transcription. Hands-free coding, file nav, and terminal. 90% less typing. `React` `Rust` `Vapi` `Gemini`
 
 ---
