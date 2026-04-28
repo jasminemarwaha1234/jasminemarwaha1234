@@ -47,7 +47,7 @@ Outside of tech: I'm a big music, TV, and movie person. Currently on a full Mich
 
 ## Featured Projects
 
-**🌿 [EcoScape](https://github.com/jasminemarwaha1234/sustainable-garden)** — 🥇 Best Sustainable Hack, IrvineHacks
+**🪴 [EcoScape](https://github.com/jasminemarwaha1234/sustainable-garden)** — 🥇 Best Sustainable Hack, IrvineHacks
 Location-aware garden planner with ZIP-based climate recommendations, drag-and-drop plant designer, and sustainability scoring. `React` `Flask` `Python`
 
 **🛸 [SkySweep](https://github.com/stephkmn/pantherhacks-2026)** — 🥈 Runner-up Sustainability, PantherHacks 
