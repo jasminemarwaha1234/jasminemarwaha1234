@@ -2,13 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2E86C1&width=500&lines=CS+%40+UC+Irvine+%7C+AI+Researcher+%7C+Hackathon+Winner;Building+AI+that+actually+does+something+useful" />
 
-I'm a third-year Computer Science student at UC Irvine specializing in intelligent systems, with a minor in Management. I'm an undergraduate AI researcher at [Piper Lab](https://piper.ics.uci.edu/) and the incoming Co-President of [AI@UCI](https://aiclub.ics.uci.edu/). I've won [IrvineHacks](https://irvinehacks.com/) (🥇 Best Sustainable Hack), placed runner-up at PantherHacks for the Sustainability track (can you guess the recurring theme), and mentored 400+ students as a Lab Learning Assistant for over a year in Python. 
+I'm a third-year Computer Science student at UC Irvine specializing in intelligent systems, with a minor in Management. I'm an undergraduate AI researcher at Professor Annie Marie Piper's Lab and the incoming Co-President of [AI@UCI](https://aiclub.ics.uci.edu/). I've won [IrvineHacks](https://irvinehacks.com/) (🥇 Best Sustainable Hack), placed runner-up at [PantherHacks](https://pantherhacks.dev/winners) for the Sustainability track (can you guess the recurring theme), and mentored 600+ students as a Lab Learning Assistant for over a year in Python. 
  
 Outside of tech: I'm a big music, TV, and movie person. Currently on a full Michael Jackson deep-dive after watching the biopic 🎵. In my free time I love building cute frontend websites (I will always happily take on frontend for any project), watching basketball and football (Super Bowl is sacred), and going out with friends for quality time. 
 
 * Email: [marwahaj@uci.edu](mailto:marwahaj@uci.edu)
 * LinkedIn: [linkedin.com/in/jasmine-marwaha](https://www.linkedin.com/in/jasmine-marwaha/)
-* Current Obsession: Michael Jackson's full discography + Olivia Rodrigo's new song "drop dead!" - can't wait for the album!
+* Current Obsession: Michael Jackson's full discography + Olivia Rodrigo's new song "drop dead!" - can't wait for the album!🫧
 
 ---
 
