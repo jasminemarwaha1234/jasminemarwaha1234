@@ -1,4 +1,4 @@
-# J𝙖𝙨𝙢𝙞𝙣𝙚 M𝙖𝙧𝙬𝙖𝙝𝙖 🎧💙
+# *J𝙖𝙨𝙢𝙞𝙣𝙚 M𝙖𝙧𝙬𝙖𝙝𝙖* 🎧💙
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2E86C1&width=500&lines=CS+%40+UC+Irvine+%7C+AI+Researcher+%7C+Hackathon+Winner;Building+AI+that+actually+does+something+useful" />
 
