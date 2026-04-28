@@ -1,19 +1,18 @@
-# 𝙟𝙖𝙨𝙢𝙞𝙣𝙚 𝙢𝙖𝙧𝙬𝙖𝙝𝙖 ✦
+# J𝙖𝙨𝙢𝙞𝙣𝙚 M𝙖𝙧𝙬𝙖𝙝𝙖 🎧💙✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&width=500&lines=CS+%40+UC+Irvine+%7C+AI+Researcher+%7C+Hackathon+Winner;Building+AI+that+actually+does+something+useful." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2E86C1&width=500&lines=CS+%40+UC+Irvine+%7C+AI+Researcher+%7C+Hackathon+Winner;Building+AI+that+actually+does+something+useful" />
 
-I'm a third-year CS student at UC Irvine (3.7 GPA, 5× Dean's List) with a minor in Management. I like building things at the edge of AI and real-world usefulness — a voice IDE built for a teammate with carpal tunnel, a drone app that maps trash zones with YOLO, research that makes vision-language models run 10× faster.
+I'm a third-year Computer Science student at UC Irvine specializing in intelligent systems, with a minor in Management. I'm an undergraduate AI researcher at [Piper Lab](https://piper.ics.uci.edu/) and the incoming Co-President of [AI@UCI](https://aiclub.ics.uci.edu/). I've won [IrvineHacks](https://irvinehacks.com/) (🥇 Best Sustainable Hack), placed runner-up at PantherHacks for the Sustainability track (can you guess the recurring theme), and mentored 400+ students as a Lab Learning Assistant for over a year in Python. 
+ 
+Outside of tech: I'm a big music, TV, and movie person. Currently on a full Michael Jackson deep-dive after watching the biopic 🎵. In my free time I love building cute frontend websites (I will always happily take on frontend for any project), watching basketball and football (Super Bowl is sacred), and going out with friends for quality time. 
 
-I'm an undergraduate researcher at [Piper Lab](https://piper.ics.uci.edu/) (ICS, UCI), incoming Co-President of [AI@UCI](https://aiclub.ics.uci.edu/), and a former Learning Assistant who's mentored 400+ students. I've won [IrvineHacks](https://irvinehacks.com/) (🥇 Best Sustainable Hack) and placed runner-up at PantherHacks. I like hard problems, shipping under pressure, and writing code that doesn't need to be cleaned up later.
-
-- 📬 [marwahaj@uci.edu](mailto:marwahaj@uci.edu)
-- 💼 [linkedin.com/in/jasmine-marwaha](https://www.linkedin.com/in/jasmine-marwaha/)
-- 🌐 *(add your portfolio link)*
-- 🟢 Currently: building a caption refinement pipeline for VLMs — async Python, GPT-4.1 + Gemini, BERTScore filtering
+* Email: [marwahaj@uci.edu](mailto:marwahaj@uci.edu)
+* LinkedIn: [linkedin.com/in/jasmine-marwaha](https://www.linkedin.com/in/jasmine-marwaha/)
+* Current Obsession: Michael Jackson's full discography + Olivia Rodrigo's new song "drop dead!" - can't wait for the album!
 
 ---
 
-## tech stack
+## Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,19 +45,16 @@ I'm an undergraduate researcher at [Piper Lab](https://piper.ics.uci.edu/) (ICS,
 
 ---
 
-## featured projects
+## Featured Projects
 
 **🌿 [EcoScape](https://github.com/jasminemarwaha1234/sustainable-garden)** — 🥇 Best Sustainable Hack, IrvineHacks
 Location-aware garden planner with ZIP-based climate recommendations, drag-and-drop plant designer, and sustainability scoring. `React` `Flask` `Python`
 
-**🚁 SkySweep** — 🥈 Runner-up Sustainability, PantherHacks
+**🛸 [SkySweep](https://github.com/stephkmn/pantherhacks-2026)** — 🥈 Runner-up Sustainability, PantherHacks 
 Drone-powered trash detection with YOLO waste classification, severity scoring, optimized cleanup routing, and community reporting pinned to Supabase. `Python` `FastAPI` `React` `YOLO`
 
 **🎙 [Vox IDE](https://github.com/jasminemarwaha1234/vox-ide)** — Built for a teammate with carpal tunnel
 Voice-controlled IDE with Gemini code generation and Vapi real-time transcription. Hands-free coding, file nav, and terminal. 90% less typing. `React` `Rust` `Vapi` `Gemini`
-
-**🧠 Virtual Memory System** — OS coursework @ UCI
-Full virtual memory manager with segmentation, paging, and demand paging. 15ms average page fault latency. `Python`
 
 ---
 
