@@ -19,11 +19,23 @@
 
 ## 👋 Hey, I'm Jasmine
 
-I'm a third-year CS student at UC Irvine who builds things at the edge of AI and real-world usefulness. My dad got me into tech early, and it never stopped — now I'm doing ML research, shipping hackathon projects under 24-hour deadlines, and leading a 1,000+ member AI club.
+I'm a third-year undergraduate Computer Science student at UC Irvine. I'm specializing in intelligent systems and i'm the incoming co-president of AI club at UCI. and i actually love doing hackathons. the thrill of exploring new schools and building a full stack application with new team memebers really excites me. 
 
-I like problems that feel impossible until they're not. I built a voice-controlled IDE for a teammate with carpal tunnel. I wrote async Python pipelines that made a vision-language model run 10x faster. I made a drone app that maps trash zones with YOLO. I don't just write code — I build things with a reason.
+I love any form of entertainment- i love music, tv shows and movies. i recently have been listening to a lot of micheal jackson after watching the new biopoic! 
 
-Outside of tech: iced coffee, competitive problem-solving, and convincing people that C++ is actually fun.
+in my free time, i love creating cute frontend websites (i wll always happily take on frontend). and watching basketball/football (mostly watch the superbowl) and going out with friends!
+
+---
+
+
+## 📬 Let's Talk
+
+<p align="center">
+  <a href="mailto:marwahaj@uci.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jasmine-marwaha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">Always happy to talk about ML, voice AI, or anything you're building.</p>
 
 ---
 
@@ -134,15 +146,6 @@ Outside of tech: iced coffee, competitive problem-solving, and convincing people
 </p>
 
 ---
-
-## 📬 Let's Talk
-
-<p align="center">
-  <a href="mailto:marwahaj@uci.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jasmine-marwaha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">Always happy to talk about ML, voice AI, or anything you're building.</p>
 
 <!-- Footer wave -->
 <p align="center">
