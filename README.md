@@ -6,7 +6,7 @@ I'm a third-year Computer Science student at UC Irvine specializing in intellige
 
 * Email: [marwahaj@uci.edu](mailto:marwahaj@uci.edu)
 * LinkedIn: [linkedin.com/in/jasmine-marwaha](https://www.linkedin.com/in/jasmine-marwaha/)
-* Current Obsession: Michael Jackson's full discography + Olivia Rodrigo's new song "drop dead!" - can't wait for the album!🫧
+* Current Obsession: Michael Jackson's full discography + Olivia Rodrigo's new album!🫧
 
 ---
 
