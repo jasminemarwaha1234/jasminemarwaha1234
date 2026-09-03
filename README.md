@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=2E86C1&width=500&lines=CS+%40+UC+Irvine+%7C+AI+Researcher+%7C+Hackathon+Winner;Building+AI+that+actually+does+something+useful" />
   
-I'm a fourth-year Honors Computer Science student at UC Irvine specializing in intelligent systems, with a minor in Management. I'm an undergraduate AI researcher at Professor Annie Marie Piper's Lab and the incoming Co-President of [AI@UCI](https://aiclub.ics.uci.edu/). I've won [IrvineHacks](https://irvinehacks.com/) (🥇 Best Sustainable Hack), placed runner-up at [PantherHacks](https://pantherhacks.dev/winners) for the Sustainability track (can you guess the recurring theme 👀), and mentored 600+ students as a Lab Learning Assistant for over a year in Python. 
+I'm a fourth-year Honors Computer Science student at UC Irvine specializing in intelligent systems, with a minor in Management. I'm a software engineer intern at WhissleAI, an undergraduate AI researcher at Professor Annie Marie Piper's Lab and the Co-President of [AI@UCI](https://aiclub.ics.uci.edu/). I've won [IrvineHacks](https://irvinehacks.com/) (🥇 Best Sustainable Hack), placed runner-up at [PantherHacks](https://pantherhacks.dev/winners) for the Sustainability track (can you guess the recurring theme 👀), and mentored 600+ students as a Lab Learning Assistant for over a year in Python. 
 
 * Email: [marwahaj@uci.edu](mailto:marwahaj@uci.edu)
 * LinkedIn: [linkedin.com/in/jasmine-marwaha](https://www.linkedin.com/in/jasmine-marwaha/)
